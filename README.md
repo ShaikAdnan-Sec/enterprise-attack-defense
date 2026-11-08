@@ -6,7 +6,7 @@ To design, deploy, and secure a miniature enterprise environment. This project d
 
 ## 2. Architecture
 
-(Diagram placeholder: Windows Domain Controller, Windows Client, Linux Server, Web App, Centralized Logging)
+(Diagram placeholder: Windows Domain Controller, Windows Client, Linux Server, Web App, Centralised Logging)
 
 ## 3. Threat Model
 
